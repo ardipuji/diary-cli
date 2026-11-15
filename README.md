@@ -38,6 +38,7 @@ py diary.py
 ```
 ---
 #### :camera_flash: Preview
+Berikut ini beberapa tampilan Program Catatan Harian yang berjalan di CLI.
 
 1. **Halaman Autentikasi**
 
