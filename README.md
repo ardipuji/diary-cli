@@ -40,24 +40,31 @@ py diary.py
 #### :camera_flash: Preview
 
 1. **Halaman Autentikasi**
+
 ![Gambar halaman Auth](img/halaman_auth.png)
 
 2. **Halaman Daftar Akun**
+
 ![Gambar halaman daftar Akun](img/daftar_akun.png)
 
 3. **Halaman Login**
+
 ![Gambar halaman Login akun](img/halaman_login.png)
 
 4. **Menu Utama**
+
 ![Gambar Menu Utama](img/menu_utama.png)
 
 5. **Halaman Tambah Catatan**
+
 ![Gambar halaman tambah catatan](img/tambah_catatan.png)
 
 6. **Halaman Lihat Catatan**
+
 ![Gambar halaman Lihat catatan](img/lihat_catatan.png)
 
 7. **Halaman Hapus Catatan**
+
 ![Gambar halaman hapus catatan](img/hapus_catatan.png)
 
 ---
